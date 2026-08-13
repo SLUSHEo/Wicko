@@ -1,0 +1,166 @@
+Wicko — Privacy Policy
+
+Last Updated: August 13, 2026
+
+This Privacy Policy explains how Wicko ("Wicko", "the Bot", "we", "us", or "our") collects, uses, stores, and protects information when you use Wicko on Discord.
+
+Wicko is a Discord bot designed for AutoMod, server moderation, message filtering, and commands.
+
+We aim to collect and process only the data that is necessary to provide Wicko's functionality.
+
+1. Information We Process
+
+Wicko may process the following Discord-related information:
+
+Discord Server IDs
+
+We may store Discord Server IDs to identify servers where Wicko is installed and to associate server-specific settings with the correct server.
+
+Discord Channel IDs
+
+We may store Channel IDs when necessary for features such as moderation configuration, logging, filtering, or other server-specific functionality.
+
+Message Content
+
+Wicko may process message content when required for AutoMod and filtering functionality.
+
+Message content may be analyzed to:
+
+- Detect configured prohibited words or phrases
+- Detect spam or unwanted content
+- Apply AutoMod rules
+- Trigger moderation actions
+- Prevent abuse of the server
+- Execute configured moderation functionality
+
+Message content is processed only for the purposes necessary to provide these features.
+
+2. How We Use Data
+
+The information processed by Wicko may be used to:
+
+- Provide AutoMod functionality
+- Provide server moderation features
+- Filter messages
+- Execute Discord bot commands
+- Store server-specific configuration
+- Maintain and improve the reliability of Wicko
+- Protect Wicko against abuse and unauthorized use
+- Maintain the security of the service
+
+We do not intentionally collect data that is not necessary for Wicko's functionality.
+
+3. Data Minimization
+
+Wicko follows a data-minimization approach.
+
+We aim to collect and retain only the information reasonably necessary to operate the bot.
+
+This may include:
+
+- Server IDs
+- Channel IDs
+- Server configuration
+- Message content required for AutoMod and filtering
+
+4. Data Sharing
+
+We do not sell personal information.
+
+We do not intentionally share stored Discord data with third parties except where reasonably necessary to:
+
+- Operate and maintain Wicko
+- Provide required infrastructure or hosting
+- Protect the security of Wicko
+- Comply with applicable laws or legal obligations
+- Prevent abuse, fraud, or security incidents
+
+We do not use stored message content for advertising purposes.
+
+5. Message Content
+
+Because Wicko provides AutoMod and filtering functionality, message content may need to be processed while Wicko is operating on a Discord server.
+
+Message content may be checked against configured moderation rules.
+
+Wicko is not intended to permanently store all messages sent on a Discord server.
+
+Where message content is temporarily processed for moderation, it is used for the relevant moderation function rather than for advertising or unrelated purposes.
+
+6. Data Retention
+
+We retain data only for as long as reasonably necessary to provide Wicko's functionality or to satisfy legitimate security, operational, or legal requirements.
+
+Server configuration data may be retained while Wicko remains installed on a server.
+
+When Wicko is removed from a server, associated configuration data may be deleted in accordance with our deletion procedures.
+
+Message content processed for AutoMod is not intended to be stored indefinitely.
+
+7. Data Deletion
+
+Server owners or authorized users may request deletion of data associated with their server.
+
+To submit a deletion request, contact us at:
+
+Email: [DEINE EMAIL-ADRESSE EINSETZEN]
+
+Please provide the relevant Discord Server ID so that we can identify the appropriate data.
+
+We may request additional information where reasonably necessary to verify the request.
+
+8. Data Security
+
+We take reasonable technical and organizational measures to protect information processed by Wicko.
+
+However, no internet-based service can guarantee complete security.
+
+If we become aware of a security incident affecting stored information, we will take reasonable steps to investigate and address the issue.
+
+9. Discord
+
+Wicko operates through Discord's platform and APIs.
+
+Wicko is not affiliated with, endorsed by, or officially connected to Discord Inc.
+
+Your use of Discord is also subject to Discord's own Terms of Service and Privacy Policy.
+
+10. Third-Party Services
+
+Wicko may rely on third-party infrastructure or hosting services to operate the bot.
+
+Where such services process information on our behalf, we aim to use them only as reasonably necessary to operate and secure Wicko.
+
+11. Your Privacy Rights
+
+Depending on your location and applicable law, you may have rights concerning your personal information.
+
+These rights may include:
+
+- The right to request access to applicable data
+- The right to request correction of inaccurate data
+- The right to request deletion of applicable data
+- The right to object to certain processing
+- The right to request restriction of certain processing
+
+To exercise an applicable right, contact us using the email address below.
+
+Email: [DEINE EMAIL-ADRESSE EINSETZEN]
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+If we make changes, we will update the Last Updated date at the top of this document.
+
+We recommend checking this page periodically for the latest version.
+
+13. Contact
+
+If you have questions about this Privacy Policy, Wicko's data processing, or a data deletion request, please contact:
+
+Email: [DEINE EMAIL-ADRESSE EINSETZEN]
+
+---
+
+By using Wicko, you acknowledge that you have read and understood this Privacy Policy.
